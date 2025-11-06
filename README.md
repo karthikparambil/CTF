@@ -1,4 +1,4 @@
-# CTF Challenges Repository
+# 💾CTF Challenges Repository
 
 Welcome to the CTF Challenges repository! This repository contains various challenges designed for Capture the Flag (CTF) competitions, including **Forensic** and **Web** challenges. Each challenge comes with a PDF walkthrough to guide you through the solution.
 
@@ -9,7 +9,7 @@ Welcome to the CTF Challenges repository! This repository contains various chall
 
 ---
 
-## Forensic Challenges
+## 🕵️‍♂️Forensic Challenges
 
 ### 1. <a href="/Forensic/Stegnography (easy)">Stegnography</a>
 ### 2. <a href="/Forensic/Data carving (easy)">Data carving</a>
@@ -17,7 +17,7 @@ Welcome to the CTF Challenges repository! This repository contains various chall
 
 ---
 
-## Web Challenges
+## 🌐Web Challenges
 
 ### 1. **[Web Challenge 1: XSS Injection](./web/xss_injection/)**
 
@@ -31,7 +31,7 @@ Feel free to explore each PDF to understand the techniques used and learn how to
 
 ---
 
-### **Additional**
+### **📚Additional**
 
 - **Tools Used**: A list of tools commonly used in forensic and web challenges.
   - **Forensic Tools**: `steghide`,`stegcracker`
