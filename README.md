@@ -11,7 +11,9 @@ Welcome to the CTF Challenges repository! This repository contains various chall
 
 ## Forensic Challenges
 
-### 1. **[Stegnography](./Forensic/Stegnography (easy))**
+### 1. **<a href="Forensic/Stegnography (easy)"Stegnography></a>**
+
+### 1. **[Stegnography](./Forensic/ (easy))**
 ### 2. **[Data carving](./Forensic/Data carving (easy))**
 ### 2. **[Artifact trial](./Forensic/Artifact trial (hard))**
 
