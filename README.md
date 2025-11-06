@@ -39,7 +39,7 @@ Feel free to explore each PDF to understand the techniques used and learn how to
 
 ---
 
-## Contributing
+## 🤝Contributing
 
 Feel free to fork the repository, solve the challenges, and submit pull requests with your improvements. Contributions are welcome!
 
