@@ -4,14 +4,14 @@ Welcome to the CTF Challenges repository! This repository contains various chall
 
 ## Table of Contents
 
-- [Forensic Challenges](#forensic-challenges)
-- [Web Challenges](#web-challenges)
+- [Forensic Challenges](/Forensic)
+- [Web Challenges](/Web)
 
 ---
 
 ## Forensic Challenges
 
-### 1. <a href="Forensic/Stegnography (easy)">Stegnography</a>
+### 1. <a href="/Forensic/Stegnography (easy)">Stegnography</a>
 ### 2. <a href="/Forensic/Data carving (easy)">Data carving</a>
 ### 2. <a href="/Forensic/Artifact trial (hard)">Artifact trial</a>
 
@@ -31,13 +31,7 @@ Feel free to explore each PDF to understand the techniques used and learn how to
 
 ---
 
-## Extras
-
-### **Additional Resources**
-
-- **CTF Preparation Tips**: A collection of resources to help you improve your skills in solving CTF challenges.
-  - [Link to Resource 1](https://example.com)
-  - [Link to Resource 2](https://example.com)
+### **Additional**
 
 - **Tools Used**: A list of tools commonly used in forensic and web challenges.
   - **Forensic Tools**: `steghide`,`stegcracker`
