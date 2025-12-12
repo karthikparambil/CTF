@@ -5,9 +5,9 @@ Welcome to the CTF Challenges repository! This repository contains various chall
 
 ---
 
-## 🌐Web Challenges
+## Web Challenges
 
-### 1. **[Web Challenge 1: XSS Injection](./web/xss_injection/)**
+### 1. **[Web Challenge 1](/)**
 
 ---
 
