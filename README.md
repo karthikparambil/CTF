@@ -2,10 +2,12 @@
 
 Welcome to the CTF Challenges repository! This repository contains various challenges designed for Capture the Flag (CTF) competitions, including **Forensic** and **Web** challenges. Each challenge comes with a PDF walkthrough to guide you through the solution.
 
-## Table of Contents
 
-- [Forensic Challenges](/Forensic)
-- [Web Challenges](/Web)
+---
+
+## 🌐Web Challenges
+
+### 1. **[Web Challenge 1: XSS Injection](./web/xss_injection/)**
 
 ---
 
@@ -17,25 +19,11 @@ Welcome to the CTF Challenges repository! This repository contains various chall
 
 ---
 
-## 🌐Web Challenges
-
-### 1. **[Web Challenge 1: XSS Injection](./web/xss_injection/)**
-
----
-
 ## Walkthrough PDFs
 
 Each challenge has a PDF walkthrough that guides you through the solution step by step. These can be found within each challenge's directory.
 
 Feel free to explore each PDF to understand the techniques used and learn how to solve similar challenges in future CTFs.
-
----
-
-### **📚Additional**
-
-- **Tools Used**: A list of tools commonly used in forensic and web challenges.
-  - **Forensic Tools**: `steghide`,`stegcracker`
-  - **Web Tools**: `Burp Suite`, `OWASP ZAP`
 
 ---
 
