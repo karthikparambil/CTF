@@ -7,23 +7,13 @@ Welcome to the CTF Challenges repository! This repository contains various chall
 
 ## Web Challenges
 
-### 1. **[Web Challenge 1](/)**
-
 ---
 
 ## 🕵️‍♂️Forensic Challenges
 
-### 1. <a href="/Forensic/Stegnography (easy)">Stegnography</a>
-### 2. <a href="/Forensic/Data carving (easy)">Data carving</a>
-### 2. <a href="/Forensic/Artifact trial (hard)">Artifact trial</a>
 
 ---
 
-## Walkthrough PDFs
-
-Each challenge has a PDF walkthrough that guides you through the solution step by step. These can be found within each challenge's directory.
-
-Feel free to explore each PDF to understand the techniques used and learn how to solve similar challenges in future CTFs.
 
 ---
 
